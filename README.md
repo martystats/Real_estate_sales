@@ -11,7 +11,7 @@ This project presents a full machine learning pipeline applied to a real-world r
 
 - **Model Access**
 The trained Random Forest Regressor file was too large for GitHub upload.
-You can download it externally here: [Download Model File](https://your_link_here.com)
+You can download it externally here: [Download Model File](https://www.dropbox.com/scl/fo/u6ynr49xy29ws9ia3mj5l/AKZTy1724Yb6PbeNLFqSfNo?rlkey=b3wi7l0aauxhtvwww4cmpdnec&st=lqb5mhyd&dl=0)
 
 
 - **Dataset (`Cleaned_Real_Estate_Sales_2001-2022_GL.csvv2`)**  
