@@ -9,16 +9,16 @@ This project presents a full machine learning pipeline applied to a real-world r
 - **Jupyter Notebook (`Clearworkflows002.ipynb`)**  
   Contains the full pipeline: data cleaning, EDA, feature engineering, model training, and export steps.
 
-📂 Dataset Access
-Due to GitHub’s 25 MB upload restriction, the full cleaned dataset is hosted externally on Dropbox.  
-You can download it using the link below:  
+### Dataset & Trained Model Access
+Because GitHub limits uploads to 25 MB, both the cleaned dataset and the trained Random Forest model are hosted externally on Dropbox.  
+You can access and download them using the link below:
 
-🔗 (https://www.dropbox.com/scl/fo/u6ynr49xy29ws9ia3mj5l/AKZTy1724Yb6PbeNLFqSfNo?rlkey=b3wi7l0aauxhtvwww4cmpdnec&dl=1)
----
+[**Open Dropbox Folder (Dataset + Model)**](https://www.dropbox.com/scl/fo/u6ynr49xy29ws9ia3mj5l/AKZTy1724Yb6PbeNLFqSfNo?rlkey=b3wi7l0aauxhtvwww4cmpdnec&dl=1)
 
-**Trained Model (`random_forest_model.pkl`)**
-Due to GitHub’s 25 MB file size limit, the trained Random Forest model is also hosted externally on Dropbox.  
-You can download it using the link below:
+**Contents:**
+- `Cleaned_Real_Estate_Sales_2001-2022_GL.csv` — Final cleaned dataset used for model training  
+- `random_forest_model.pkl` — Trained Random Forest model saved using `joblib`
+
 
 
 - **Dataset (`Cleaned_Real_Estate_Sales_2001-2022_GL.csvv2`)**  
