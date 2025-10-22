@@ -13,7 +13,12 @@ This project presents a full machine learning pipeline applied to a real-world r
 Due to GitHub’s 25 MB upload restriction, the full cleaned dataset is hosted externally on Dropbox.  
 You can download it using the link below:  
 
-🔗 [Download Retail_Estate_Sales_2001_2022_GL.csv](https://www.dropbox.com/scl/fi/i1dq3lel0n6z47q5m5xzs/Real_Estate_Sales_2001-2022_GL.csv?rlkey=jkta2et3yw108s6y4qi0buyja&dl=1)
+🔗 (https://www.dropbox.com/scl/fo/u6ynr49xy29ws9ia3mj5l/AKZTy1724Yb6PbeNLFqSfNo?rlkey=b3wi7l0aauxhtvwww4cmpdnec&dl=1)
+---
+
+**Trained Model (`random_forest_model.pkl`)**
+Due to GitHub’s 25 MB file size limit, the trained Random Forest model is also hosted externally on Dropbox.  
+You can download it using the link below:
 
 
 - **Dataset (`Cleaned_Real_Estate_Sales_2001-2022_GL.csvv2`)**  
